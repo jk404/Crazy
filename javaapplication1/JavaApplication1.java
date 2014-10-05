@@ -2,7 +2,7 @@ package javaapplication1;
 
 // Practice of java nested loops, if else Scanner and CRAZE :P
 // A Partially troubleshooted program (fingers crossed) exceptions not fixed
-// J.K. mad man is Proud to present some crazy shit! :D
+// J.K. mad man is Proud to present some crazy shit! JK's LOL Series :D xD
 
 import java.util.Scanner;
 
