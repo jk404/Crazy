@@ -18,7 +18,7 @@ public class JavaApplication1
     
     @SuppressWarnings("unused")
 	public static void startThisShit()
-    {
+    	{
         boolean run=true;
         
         Scanner scan = new Scanner (System.in);
